@@ -1,4 +1,5 @@
 # The blockchain domain [](https://github.com/positivedefinite/kernelofknowledge)
+![](https://media1.giphy.com/media/HStDYzYFt2Lh6/giphy.gif)
 List of links to build up your blockchain intuition. Contributions are welcome. Some sources might not be up-to-date.
 ## Introduction
 * [10min video](https://www.youtube.com/watch?v=LZEHOlZY2To&t=3s) - Siraj Raval uploading compressed knowledge straight into your mind. There is much more where that came from! I strongly recommend watching all of Siraj's videos about blockchain.
