@@ -21,7 +21,7 @@ List of links to build up your blockchain intuition. Contributions are welcome. 
 * [Blockchain whitepapers](https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9) - s
 * [Curated list of whitepapers](https://github.com/decrypto-org/blockchain-papers)
 ## Decentralized Machine Learning
-* [Convergence of gradient descent](ftp://ftp.math.ucla.edu/pub/camreport/cam13-61.pdf) - Consensus optimization problems in multi-agent networks arise in collaborative data mining. This paper describes relation of network topology, stepsize etc with properties of convergence for various parameters.
+* [Convergence of gradient descent](https://arxiv.org/pdf/1310.7063.pdf) - Consensus optimization problems in multi-agent networks arise in collaborative data mining. This paper describes relation of network topology, stepsize etc with properties of convergence for various parameters.
 ## Decentralized Game Theory
 * [Decentralized Nash Equillibrium](https://arxiv.org/pdf/1410.4421.pdf) - Mean field (MF) games.
 * [Researcher in game theory](http://ieeexplore.ieee.org/search/searchresult.jsp?ranges=2013_2018_Year&searchWithin=%22Authors%22:.QT.Chih-Yu%20Wang.QT) - Many GT problems relating to blockchain, but not only.
