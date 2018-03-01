@@ -11,11 +11,7 @@ Sections: Introduction, Insights, Future of Data Science, Academic Sources, Dece
 * [What is blockchain?](https://hbr.org/2016/05/the-impact-of-the-blockchain-goes-beyond-financial-services?referral=03759&cm_vc=rr_item_page.bottom) - Blockchains ensure integrity and trust between strangers. They make it difficult to cheat. The Internet of Everything needs a Ledger of Everything.
 * [Truth about blockchain](https://hbr.org/2017/01/the-truth-about-blockchain) - Blockchain as a fundamental rather than a disruptive technology. After TCP/IP was created in 1972 many companeis created <i> localized networks </i>. The same is now happening with private blockchains. They will not stand the test of time, just as intranets didn't.
 * [Key security](https://medium.com/@nickneuman/keysplit-private-key-security-for-cryptocurrency-owners-d1653ea9631d) - A great article about why security of rpivate keys and not scalability is the biggest obstackle for mass adoption of blockchain.
-## Projects in data science
-* [OpenMined](https://openmined.org/) - A marketplace for AI models. This is the future of Artificial Intelligence!
-* [BigChainDB](https://www.bigchaindb.com/) - A scalable, decentralized database with Byzantine Fault Tolerance, tailored to the needs of life sciences.
-* [Ocean Protocol](https://oceanprotocol.com/) - A protocol powering BigChainDB, enabling a decentralized data marketplace to power AI of the future.
-* [Cardano](https://www.cardanohub.org/en/home/) - An emerging alternative to Ethereum for developing DApps.assets. Cryptokitties is the most successful smart contract in history of blockchain.
+* [Zk-proofs](https://www.linkedin.com/pulse/how-trustless-society-improve-our-privacy-mark-van-rijmenam/?trackingId=6stmHj6mgJfmd%2FXX5faKRA%3D%3D) - A non-technical explanation of importance of zero-knowledge proofs.
 ## Academic Sources about Blockchain
 * [Blockchain whitepapers](https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9) - s
 * [Curated list of whitepapers](https://github.com/decrypto-org/blockchain-papers)
@@ -25,10 +21,13 @@ Sections: Introduction, Insights, Future of Data Science, Academic Sources, Dece
 * [Decentralized Nash Equillibrium](https://arxiv.org/pdf/1410.4421.pdf) - Mean field (MF) games.
 * [Researcher in game theory](http://ieeexplore.ieee.org/search/searchresult.jsp?ranges=2013_2018_Year&searchWithin=%22Authors%22:.QT.Chih-Yu%20Wang.QT) - Many GT problems relating to blockchain, but not only.
 ## Algorithm Design
-* [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) - Reduction of proof storage complexity from linear to logarithmic. Monero wants to implement it in March 2018.
-## Security
-* [Zk-proofs](https://www.linkedin.com/pulse/how-trustless-society-improve-our-privacy-mark-van-rijmenam/?trackingId=6stmHj6mgJfmd%2FXX5faKRA%3D%3D) - A non-technical explanation of importance of zero-knowledge proofs.
-## Projects
+* [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) - Reduction of proof storage complexity from llinear to logarithmic.
+## Projects for Sciences
+* [OpenMined](https://openmined.org/) - A marketplace for AI models. This is the future of Artificial Intelligence!
+* [BigChainDB](https://www.bigchaindb.com/) - A scalable, decentralized database with Byzantine Fault Tolerance, tailored to the needs of life sciences.
+* [Ocean Protocol](https://oceanprotocol.com/) - A protocol powering BigChainDB, enabling a decentralized data marketplace to power AI of the future.
+* [Cardano](https://www.cardanohub.org/en/home/) - An emerging alternative to Ethereum for developing DApps.assets. Cryptokitties is the most successful smart contract in history of blockchain.
+## Projects (other)
 * [OpenBazaar](https://www.openbazaar.org/) - Market place for everything, a decentralized eBay.
 * [Stellar](https://www.stellar.org/) - Blockchain infrastructure for financial systems.
 * [Cryptokitties Smart Contract](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code) - The silly but effective face of the ERC721 token for trading non-tangible 
