@@ -27,11 +27,11 @@ Sections: Introduction, Insights, Future of Data Science, Academic Sources, Dece
 * [OpenMined](https://openmined.org/) - A marketplace for AI models. This is the future of Artificial Intelligence!
 * [BigChainDB](https://www.bigchaindb.com/) - A scalable, decentralized database with Byzantine Fault Tolerance, tailored to the needs of life sciences.
 * [Ocean Protocol](https://oceanprotocol.com/) - A protocol powering BigChainDB, enabling a decentralized data marketplace to power AI of the future.
-* [Cardano](https://www.cardanohub.org/en/home/) - An emerging alternative to Ethereum for developing DApps.assets. Cryptokitties is the most successful smart contract in history of blockchain.
+* [Cardano](https://www.cardanohub.org/en/home/) - An emerging alternative to Ethereum for developing DApps.assets. 
 ## Projects (other)
 * [OpenBazaar](https://www.openbazaar.org/) - Market place for everything, a decentralized eBay.
 * [Stellar](https://www.stellar.org/) - Blockchain infrastructure for financial systems.
-* [Cryptokitties Smart Contract](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code) - The silly but effective face of the ERC721 token for trading non-tangible 
+* [Cryptokitties Smart Contract](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code) - The silly but effective face of the ERC721 token for trading non-tangible goods. Cryptokitties is the most successful smart contract in history of blockchain.
 ## Tutorials
 * [Blockchain in 200 lines](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) - Make your own blockchain!
 * [DApps for beginners](https://dappsforbeginners.wordpress.com/) - A bit outdated library describing an Ethereum-based blockchain stack. Good starting point if you're developing in JavaScript.
