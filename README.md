@@ -12,6 +12,7 @@ Sections: Introduction, Insights, Future of Data Science, Academic Sources, Dece
 * [Truth about blockchain](https://hbr.org/2017/01/the-truth-about-blockchain) - Blockchain as a fundamental rather than a disruptive technology. After TCP/IP was created in 1972 many companeis created <i> localized networks </i>. The same is now happening with private blockchains. They will not stand the test of time, just as intranets didn't.
 * [Key security](https://medium.com/@nickneuman/keysplit-private-key-security-for-cryptocurrency-owners-d1653ea9631d) - A great article about why security of rpivate keys and not scalability is the biggest obstackle for mass adoption of blockchain.
 * [Zk-proofs](https://www.linkedin.com/pulse/how-trustless-society-improve-our-privacy-mark-van-rijmenam/?trackingId=6stmHj6mgJfmd%2FXX5faKRA%3D%3D) - A non-technical explanation of importance of zero-knowledge proofs.
+* [Why decentralization matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) 
 ## Academic Sources about Blockchain
 * [Blockchain whitepapers](https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9) - s
 * [Curated list of whitepapers](https://github.com/decrypto-org/blockchain-papers)
