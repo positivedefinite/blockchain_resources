@@ -37,6 +37,8 @@ Sections: Introduction, Insights, Future of Data Science, Academic Sources, Dece
 * [DApps for beginners](https://dappsforbeginners.wordpress.com/) - A bit outdated library describing an Ethereum-based blockchain stack. Good starting point if you're developing in JavaScript.
 * [Running a node](https://alanbuxton.wordpress.com/2017/07/19/first-steps-with-ethereum-private-networks-and-smart-contracts-on-ubuntu-16-04/) - Setting up a blockchain node on Xenial.
 * [UI for Blockchain](https://www.invisionapp.com/blog/user-experience-blockchain/?utm_campaign=Weekly%20Digest&utm_source=hs_email&utm_medium=email&utm_content=58417390&_hsenc=p2ANqtz-_smx0DabC0V2nJzRlXPX2y1F1Bg2YT49_NIWpxweaJkBKUt_vqB8ilTZm-PSZPx8Z_PWLO62L7kbHzGroh77QhvmyHNg&_hsmi=58417390) - Not technical but a quick nice read.
+## Cybersec
+* [Encryption library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/) - A library from Microsoft that can be used to implement a fully homomorphic encryption scheme.
 ## Others
 * [Cheap Cloud](https://www.scaleway.com/) - VPS instances starting at 3e per month.
 * [IBM vs Microsoft](https://www.coindesk.com/ibm-vs-microsoft-two-tech-giants-two-blockchain-visions/) - Blockchain business warfare from perspective of tech giants.
