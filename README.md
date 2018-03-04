@@ -6,6 +6,7 @@ Sections: Introduction, Insights, Future of Data Science, Academic Sources, Dece
 * [Blockchain Handbook](https://1drv.ms/b/s!AmwjQg6aibIch_o30qjR1FgI1hJApQ) - A somewhat bulky (55 pages) but very easy to read blockchain primer overviewing the whole domain.
 * [Technical introduction](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - A great medium post taking you step-by-step through essential building blocks of blockchain.
 * [Non-tech introduction](https://medium.com/startup-grind/key-takeaways-from-best-ted-talks-real-world-use-of-blockchain-technology-cef55247b5a0) - Key takeaways from TED talks about blockchain.
+* [What is decentralization?](https://www.nasdaq.com/article/what-does-decentralization-actually-mean-cm860065) - An non-technical article by NASDAQ.
 * [History](https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9) - A goldmine of publications that shaped blockchain into what it is today. Mostly about Bitcoin.
 ## (non-tech) Insights
 * [What is blockchain?](https://hbr.org/2016/05/the-impact-of-the-blockchain-goes-beyond-financial-services?referral=03759&cm_vc=rr_item_page.bottom) - Blockchains ensure integrity and trust between strangers. They make it difficult to cheat. The Internet of Everything needs a Ledger of Everything.
