@@ -46,4 +46,4 @@ Sections: Introduction, Insights, Future of Data Science, Academic Sources, Dece
 ## Others
 * [Cheap Cloud](https://www.scaleway.com/) - VPS instances starting at 3e per month.
 * [IBM vs Microsoft](https://www.coindesk.com/ibm-vs-microsoft-two-tech-giants-two-blockchain-visions/) - Blockchain business warfare from perspective of tech giants.
-
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4932658/pdf/big.2015.0056.pdf
