@@ -5,7 +5,7 @@ Sections: Introduction, Insights, Future of Data Science, Academic Sources, Dece
 * [10min video](https://www.youtube.com/watch?v=LZEHOlZY2To&t=3s) - Siraj Raval uploading compressed knowledge straight into your mind. There is much more where that came from! I strongly recommend watching all of Siraj's videos about blockchain.
 * [Blockchain Handbook](https://1drv.ms/b/s!AmwjQg6aibIch_o30qjR1FgI1hJApQ) - A somewhat bulky (55 pages) but very easy to read blockchain primer overviewing the whole domain.
 * [Technical introduction](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - A great medium post taking you step-by-step through essential building blocks of blockchain.
-* [New protocol layer] (https://medium.com/@coriacetic/the-four-layers-of-the-blockchain-dc1376efa10f)
+* [New protocol layer](https://medium.com/@coriacetic/the-four-layers-of-the-blockchain-dc1376efa10f) - How blockchain fits into the landscape of existing internet protocols.
 * [Non-tech introduction](https://medium.com/startup-grind/key-takeaways-from-best-ted-talks-real-world-use-of-blockchain-technology-cef55247b5a0) - Key takeaways from TED talks about blockchain.
 * [What is decentralization?](https://www.nasdaq.com/article/what-does-decentralization-actually-mean-cm860065) - An non-technical article by NASDAQ.
 * [History](https://medium.com/founder-playbook/67-blockchain-articles-whitepapers-that-shaped-crypto-into-what-it-is-today-c538facfceb9) - A goldmine of publications that shaped blockchain into what it is today. Mostly about Bitcoin.
@@ -40,9 +40,11 @@ Sections: Introduction, Insights, Future of Data Science, Academic Sources, Dece
 * [Running a node](https://alanbuxton.wordpress.com/2017/07/19/first-steps-with-ethereum-private-networks-and-smart-contracts-on-ubuntu-16-04/) - Setting up a blockchain node on Xenial.
 * [UI for Blockchain](https://www.invisionapp.com/blog/user-experience-blockchain/?utm_campaign=Weekly%20Digest&utm_source=hs_email&utm_medium=email&utm_content=58417390&_hsenc=p2ANqtz-_smx0DabC0V2nJzRlXPX2y1F1Bg2YT49_NIWpxweaJkBKUt_vqB8ilTZm-PSZPx8Z_PWLO62L7kbHzGroh77QhvmyHNg&_hsmi=58417390) - Not technical but a quick nice read.
 ## Blockchain Engineering
-* [Scala blockchain] (https://underscore.io/blog/posts/2017/12/14/scorex.html) - An introduction to how Scorex make building modular blockchains easy.
-## Cybersec
+* [Scala blockchain](https://underscore.io/blog/posts/2017/12/14/scorex.html) - An introduction to how Scorex make building modular blockchains easy.
+## Infosec
+* [Cryptography primer](http://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Overview of concepts from cryptography for those with basic understanding of mathematical notation.
 * [Encryption library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/) - A library from Microsoft that can be used to implement a fully homomorphic encryption scheme.
+
 ## Others
 * [Cheap Cloud](https://www.scaleway.com/) - VPS instances starting at 3e per month.
 * [IBM vs Microsoft](https://www.coindesk.com/ibm-vs-microsoft-two-tech-giants-two-blockchain-visions/) - Blockchain business warfare from perspective of tech giants.
